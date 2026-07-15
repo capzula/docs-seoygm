@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-cmduem.b2bdomen.ru/sitemap.xml
